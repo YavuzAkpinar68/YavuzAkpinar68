@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yavuz Akpınar</h1>
-<h3 align="center">React-Native student at Patika.dev bootcamp provided by İnavitas&Başarsoft</h3>
+<h3 align="center">Junior React-Native Developer</h3>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently working as a **React-Native** developer
 
 - 📫 How to reach me **yavuz.akpinar.68@gmail.com**
 
